@@ -53,7 +53,7 @@ Motivated Computer Science Engineering student with strong foundation in Data St
 ---
 
 ## 🏆 Achievements
-- Solved 70+ DSA problems on LeetCode & HackerRank  
+- Solved 200+ DSA problems on LeetCode & HackerRank  
 
 ---
 
