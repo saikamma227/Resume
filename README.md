@@ -1,3 +1,4 @@
+ 
 # 👋 Hi, I'm Sai
 
 🎓 3rd Year Computer Science Student at Veltech  
@@ -42,16 +43,22 @@
 
 ---
 
-## 📊 Coding Profiles
-- 🧠 Practicing DSA regularly  
-- 💪 Improving problem-solving skills daily  
+## 📊 Coding Profile
+- ✅ Solved **200+ DSA problems
+- 🧠 Strong understanding of time & space complexity  
+- 💪 Practicing daily on coding platforms  
+
+---
+
+## 📞 Contact Me
+- 📧 Email: kammasai4477@gmail.com 
+- 📱 Phone: +91-7569496987  
 
 ---
 
 ## 🌐 Connect with Me
-- 🔗 GitHub: https://github.com/saikamma227
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-
+- 🔗 GitHub:  https://github.com/saikamma227
+- 💼 LinkedIn: https://www.linkedin.com/in/kamma-sai-872852336/
 ---
 
 ⭐️ *"Consistency is the key to success!"*
