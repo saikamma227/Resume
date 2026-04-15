@@ -1,64 +1,65 @@
- 
-# 👋 Hi, I'm Sai
+# 👋 Hi, I'm Kamma Sai Naga Buchchiya Chowdary
 
-🎓 3rd Year Computer Science Student at Veltech  
-💻 Passionate about Data Structures & Algorithms  
-🚀 Interested in Software Development & IoT  
+🎓 B.Tech CSE Student | Veltech University (2023–2027)  
+💻 Aspiring Software Developer | AI & IoT Enthusiast  
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning: Advanced DSA & Problem Solving  
-- 🔭 Working on: Java-based projects & ESP32 IoT systems  
-- 💡 Strong in: Problem solving, debugging, clean code  
-- 🎯 Goal: Become a skilled Software Engineer  
+## 📫 Contact Me
+- 📞 Phone: 7569496987  
+- 📧 Email: kammasai4477@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kamma-sai-872852336  
+- 💻 GitHub: https://github.com/saikamma227  
 
 ---
 
-## ⚡ Tech Stack
-- 💻 Languages: Java, Python, C  
-- 📚 Core: Data Structures & Algorithms, OOP  
-- 🌐 Web: HTML, CSS (Basics)  
-- 🛠 Tools: Git, GitHub, VS Code  
+## 🎯 Career Objective
+Motivated Computer Science Engineering student with strong foundation in Data Structures, DBMS, and Machine Learning. Seeking internship or entry-level opportunities to apply problem-solving skills and build scalable software solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Java, Python, C  
+- **Web Technologies:** HTML, CSS, JavaScript  
+- **Database:** MySQL  
+- **Core Subjects:** DSA, DBMS, OOPS, Operating Systems, Computer Networks  
+- **Tools:** VS Code, Git, LeetCode, HackerRank  
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Binary Tree Algorithms
-- Implemented DFS, BFS, and root-to-leaf path problems  
-- Solved real interview-style questions  
+### 🧠 Eye Disease Detection Using Deep Learning
+- Built CNN-based model using Python, TensorFlow, OpenCV  
+- Detects Cataract, Glaucoma, and Diabetic Retinopathy  
+- Used 80:20 train-test split for evaluation  
 
-### 🔹 Linked List Toolkit
-- Custom implementation (insert, delete, reverse, sort)  
-- Optimized for performance  
-
-### 🔹 ESP32 Hall Sensor Project
-- Built IoT system using ESP32  
-- Real-time sensor-based monitoring  
-
-### 🔹 String Processing Programs
-- String comparison, compression, and analysis  
-- Focused on efficient logic  
+### ⚙️ Tyre Puncture Detection & Avoiding System (IoT)
+- Designed system using electromagnetic repulsion technique  
+- Detects and deflects metallic objects on road  
+- Improves vehicle safety  
 
 ---
 
-## 📊 Coding Profile
-- ✅ Solved **200+ DSA problems
-- 🧠 Strong understanding of time & space complexity  
-- 💪 Practicing daily on coding platforms  
+## 📜 Certifications
+- Artificial Intelligence – Launched Global  
+- NPTEL Elite – Rapid Manufacturing  
+- Infosys Springboard – Artificial Intelligence  
+- Infosys Springboard – Networking  
+- Infosys Springboard – AWS Security & Data Privacy  
+- Scaler Topics – DBMS Course  
 
 ---
 
-## 📞 Contact Me
-- 📧 Email: kammasai4477@gmail.com 
-- 📱 Phone: +91-7569496987  
+## 🏆 Achievements
+- Solved 70+ DSA problems on LeetCode & HackerRank  
 
 ---
 
-## 🌐 Connect with Me
-- 🔗 GitHub:  https://github.com/saikamma227
-- 💼 LinkedIn: https://www.linkedin.com/in/kamma-sai-872852336/
+## 📊 GitHub Stats
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=saikamma227&show_icons=true)
+
 ---
 
-⭐️ *"Consistency is the key to success!"*
+⭐️ From [saikamma227](https://github.com/saikamma227)
